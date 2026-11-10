@@ -1,6 +1,6 @@
 # InCore II ⚡️
 
-> **An enhanced, fully evolved server core for Minecraft: v0.8.x - v0.15.x Pocket Edition, built on the original experience.**
+> **An enhanced, fully evolved server software for Minecraft: v0.8.x - v0.15.x Pocket Edition, built on the original experience.**
 > **More than 10 servers have chosen InCore-II as their core, and 20+ servers have referenced this core project.**
 ---
 
